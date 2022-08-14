@@ -1,3 +1,8 @@
+# Laravel PHP VueJS PHPMyAdmin Full Stack Application
+
+### This is a full stack application with all crud functionalities using axios and VueJS components. Automatically seeded database. Database name is laravel_shop_1 but it can be changed and you would have to because of the XAMPP thing gets corrupted sometimes. Cart count gets updated. Total price calculation logic with quantity and price and finally the payment gateway that is used is Stripe. Tested with Stripe testing docs. Very useful project to refer queries and easily integrate with php.
+
+
 Home           |  Products
 :-------------------------:|:-------------------------:
 ![](https://github.com/basilsv/LAMP_Stack_PHP_Laravel/blob/main/public/assets/project_images/Home.png)  |  ![](https://github.com/basilsv/LAMP_Stack_PHP_Laravel/blob/main/public/assets/project_images/Products.png)
